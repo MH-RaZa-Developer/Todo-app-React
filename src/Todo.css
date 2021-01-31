@@ -1,0 +1,10 @@
+.todo_list{
+    border: 1px solid black;
+    width: 400px;
+    margin: auto;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+}
